@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+section#introducao{
+    height: 600px;
+}
+
+article#texto_introducao{
+    min-width: 200px;
+    max-width: 490px;
+    padding: 10px;
+    border-radius: 20px;
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.300);
+}
+
+article#texto_introducao > h1{
+    margin: 3px 0px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 2em;
+}
+
+article#texto_introducao > p{
+    font-family: 'Karla', sans-serif;
+    font-size: 1em;
+}
