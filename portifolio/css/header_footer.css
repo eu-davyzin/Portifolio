@@ -52,3 +52,14 @@ a.link_navmenu{
     text-decoration: none;
     border-radius: 20px;
 }
+
+footer{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.39);
+    height: 40px;
+    padding-top: 25px;
+    margin-top: 10px;
+}
+
+p#p_copy{
+    text-align: center;
+}
