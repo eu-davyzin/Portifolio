@@ -1,0 +1,20 @@
+section#quem_sou_eu{
+    margin: 5px;
+    min-height: 450px;
+}
+
+article#qse_art{
+    padding: 10px;
+    border: gray 1px solid;
+    width:70%;
+}
+
+article#qse_art > h1{
+    text-align: center;
+}
+
+aside#imagem_qse{
+    position: relative;
+    margin-left: 72%;
+    top: -430px;
+}

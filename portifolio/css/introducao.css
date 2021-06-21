@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
-
 section#introducao{
     height: 600px;
 }
@@ -18,11 +15,4 @@ article#texto_introducao{
 
 article#texto_introducao > h1{
     margin: 3px 0px;
-    font-family: 'Mukta', sans-serif;
-    font-size: 2em;
-}
-
-article#texto_introducao > p{
-    font-family: 'Karla', sans-serif;
-    font-size: 1em;
 }
