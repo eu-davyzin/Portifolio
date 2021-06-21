@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* formatacao do header */
+
+header#cabecalho{
+    height: 50px;
+    border-bottom: 1px solid rgba(88, 88, 88, 0.13);
+}
+
+header#cabecalho > *{
+   margin: 5px;
+   display: inline-flex;
+}
+
+img#logo{
+    height: 40px;
+    width: 150px;
+}
+
+nav#navmenu_header{
+    position: absolute;
+    right: 0px;
+    height: 40px;
+}
+
+a.link_navmenu{
+    height: 30px;
+    width: 90px;
+    margin: 5px 5px;
+    line-height: 30px;
+
+    text-align: center;
+    color: rgb(71, 71, 71);
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.384);
+    text-decoration: none;
+    border-radius: 20px;
+}
