@@ -7,12 +7,12 @@
 }
 
 h1{
-    font-family: 'Mukta', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 2em;
 }
 
 p{
-    font-family: 'Karla', sans-serif;
+    font-family:cursive;
     font-size: 1em;
     text-align: justify;
 }
@@ -41,16 +41,8 @@ nav#navmenu_header{
 }
 
 a.link_navmenu{
-    height: 30px;
-    width: 90px;
-    margin: 5px 5px;
-    line-height: 30px;
-
-    text-align: center;
     color: rgb(71, 71, 71);
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.384);
     text-decoration: none;
-    border-radius: 20px;
 }
 
 footer{

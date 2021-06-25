@@ -5,7 +5,7 @@ section#introducao{
 article#texto_introducao{
     min-width: 200px;
     max-width: 490px;
-    padding: 10px;
+    padding: 20px;
     border-radius: 20px;
     position: absolute;
     top: 300px;

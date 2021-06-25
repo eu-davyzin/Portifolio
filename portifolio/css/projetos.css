@@ -25,7 +25,7 @@ nav#linguagens_menu{
     border-right: gray 1px solid;
 }
 
-button.bt_linguagem{
+button#bt_linguagem{
     border: none;
     height: 40px;
     padding: 0px 10px;
@@ -37,7 +37,7 @@ div#todos_projetos{
     display: inline-flex;
 }
 
-article.projeto{
+article#projeto{
     margin: 20px 2%;
     min-width: 400px;
     min-height: 500px;
@@ -46,18 +46,18 @@ article.projeto{
     border: purple 1px solid;
 }
 
-article.projeto > h3{
+article#projeto > h3{
     text-align: center;
     font-size: 2em;
     padding: 10px 0px;
 }
 
-article.projeto > p{
+article#projeto > p{
     margin: 5px;
     text-align: justify;
 }
 
-article.projeto > img{
+article#projeto > img{
     background-color: aqua;
     width: 400px;
 }
